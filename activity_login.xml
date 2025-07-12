@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout ...>
+
+    <EditText android:id="@+id/emailInput" ... android:hint="Email"/>
+    <EditText android:id="@+id/passInput" ... android:hint="Password" android:inputType="textPassword"/>
+    <Button android:id="@+id/loginButton" ... android:text="Login"/>
+    <Button android:id="@+id/signupButton" ... android:text="Sign Up"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
