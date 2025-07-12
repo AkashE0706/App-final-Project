@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout ...>
+
+    <EditText android:id="@+id/cityInput" ... android:hint="Enter city"/>
+    <Button android:id="@+id/fetchButton" ... android:text="Get Weather"/>
+    <TextView android:id="@+id/resultTextView" ... android:text="Results"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
